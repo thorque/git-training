@@ -5,7 +5,6 @@
 	<artifactId>hello-world-web</artifactId>
 	<version>1.0.0-SNAPSHOT</version>
 	<packaging>war</packaging>
-	<!-- Kommentar von sradi -->
 
 	<organization>
 		<name>The Agile BackOffice</name>
